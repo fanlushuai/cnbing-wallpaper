@@ -10,5 +10,5 @@ clone本项目到本地
     
 ### 定时执行(完整的姿势)：
 - 1 请严格将本程序clone到D盘根目录
-- 2 点击install，安装定时器
+- 2 点击task_install.bat，安装定时器
 - 3 设置windows壁纸自动切换,壁纸路径指向D:\cnbing-wallpaper\cnBingImage
