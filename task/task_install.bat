@@ -1,1 +1,1 @@
-schtasks /create /tn "downloadcnbingpic" /tr D:\cnBing\task_run.bat  /sc daily /st 10:30:00 /sd 2016/08/19 /f
+schtasks /create /tn "downloadcnbingpic" /tr D:\cnbing-wallpaper\task_run.bat  /sc daily /st 10:30:00 /sd 2016/08/19 /f
