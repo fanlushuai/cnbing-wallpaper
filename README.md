@@ -1,7 +1,7 @@
 # cnbing-wallpaper
 下载https://cn.bing.com/  每日壁纸..壁纸每天下载,且备份到本地,可以设置每天早上自动更换.
 ## 要求
- python3.5 , windows
+ python3.5 (系统环境变量要配置), windows
 ## 使用
 clone本项目到本地
 
